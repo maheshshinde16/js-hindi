@@ -5,9 +5,9 @@
 console.log(3+3); // code readability should be high
 console.log("Mahesh");
 
-let name "mahesh"
-let age = 18
-let isLoggedIn = false 
+//let name "mahesh"
+//let age = 18
+//let isLoggedIn = false 
 
 
 // number => 2 to power 53
@@ -17,7 +17,6 @@ let isLoggedIn = false
 // null = standalone value
 // undefined = maybe null
 // symbol = unique
-
 // object 
 
-console.log(typeof undefined); // indefined
+//console.log(typeof undefined); // indefined
